@@ -12,7 +12,7 @@
 
 # What is this?
 
-GitMarkdownPreview is an open-source and offline command-line interface (CLI) application/package designed for converting Markdown files to HTML, GitHub Markdown style.
+GitMarkdownPreview is an open-source and offline command-line interface (CLI) application/package designed for rendering local markdown files before committing them to GitHub.
 
 ## Features
 
